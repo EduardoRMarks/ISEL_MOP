@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT Biblioteca (TotalLivros)*>
+<!ELEMENT TotalLivros (Livros)*>
+<!ELEMENT Livros (Livro)*>
+<!ELEMENT Livro (Titulo|Preco|Categorias)*>
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT Preco (#PCDATA)>
+<!ELEMENT Categorias (Categoria)*>
+<!ELEMENT Categoria (#PCDATA)>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Biblioteca>
+    <TotalLivros>
+        <Livros>
+            <Livro>
+                <Titulo>O Mercador de Livros</Titulo>
+                <Preco>17.3</Preco>
+                <Categorias>
+                    <Categoria>ACAO</Categoria>
+                    <Categoria>ROMANCE</Categoria>
+                </Categorias>
+            </Livro>
+            <Livro>
+                <Titulo>Era da Inteligência Artificial</Titulo>
+                <Preco>13.75</Preco>
+                <Categorias>
+                    <Categoria>BIBLIOGRAFIAS</Categoria>
+                </Categorias>
+            </Livro>
+            <Livro>
+                <Titulo>1984</Titulo>
+                <Preco>15.5</Preco>
+                <Categorias>
+                    <Categoria>FICCAO</Categoria>
+                </Categorias>
+            </Livro>
+            <Livro>
+                <Titulo>O Espião Israelita</Titulo>
+                <Preco>17.5</Preco>
+                <Categorias>
+                    <Categoria>ACAO</Categoria>
+                </Categorias>
+            </Livro>
+            <Livro>
+                <Titulo>as</Titulo>
+                <Preco>21.0</Preco>
+                <Categorias>
+                    <Categoria>ACAO</Categoria>
+                </Categorias>
+            </Livro>
+        </Livros>
+    </TotalLivros>
+</Biblioteca>

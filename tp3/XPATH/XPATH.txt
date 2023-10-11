@@ -1,0 +1,6 @@
+a) //Espetaculo[@numBilhetes >= 500]
+b) //Nome[text() = 'Músicas do Mundo']/../Eventos/Espetaculo/Nome
+c) //Artista[text() = 'Pablo Milanés']/../..
+d) count(//Nome[text() = 'Música Cubana']/../Eventos/*)
+e) //Espetaculo[@codEspetaculo >= 'E01']/Nome
+f) //Nome[text() = 'Músicas do Mundo']/../Eventos/Festival/Nome[text() = 'Música Cubana']/../Eventos/Espetaculo[position()>1]
